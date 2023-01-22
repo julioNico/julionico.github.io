@@ -1,4 +1,10 @@
 baseURL = 'https://julionico.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Nico Site'
+title = 'Blog do Nico'
 theme = "aether"
+
+[params]
+    brand = "Blog do Nico"
+    description = "This is a Nico Blog."
+    headshotimg = "img/perfil.jpg"
+    headshotalt = "Generic grey headshot picture"
