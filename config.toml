@@ -6,5 +6,5 @@ theme = "aether"
 [params]
     brand = "Blog do Nico"
     description = "This is a Nico Blog."
-    headshotimg = "img/perfil.jpg"
+    #headshotimg = "img/perfil.jpg"
     headshotalt = "Generic grey headshot picture"
