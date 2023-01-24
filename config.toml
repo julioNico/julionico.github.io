@@ -1,4 +1,4 @@
-baseURL = 'https://julionico.github.io/blog/'
+baseURL = 'https://julionico.github.io'
 languageCode = 'en-us'
 title = 'Blog do Nico'
 theme = "aether"
