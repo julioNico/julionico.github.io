@@ -32,9 +32,6 @@ Para início de conversa, acho bacana falar um pouquinho deste espaço.
 
 Seguindo, 
 
-Meu nome é Julio Nico Dantas dos Santos, atualmente trabalho como DevOps, mas minha sou apaixonado pela área de IoT e eng. elétrica, ou seja, hardware era minha praia, hoje meu hobbie rsrs. Durante a pandemia descobri o mundo do Software Livre, através dos canais do youtube [Curso GNU/Linux](https://www.youtube.com/watch?v=SZMIL87CyVE&list=PLuf64C8sPVT9L452PqdyYCNslctvCMs_n) do querido professor kretcheu e [Debxp](https://www.youtube.com/@debxp) do querido professor Blau Araújo.
-
-
-
+Meu nome é Julio Nico Dantas dos Santos, atualmente trabalho como DevOps, mas sou apaixonado pela área de IoT e eng. elétrica, ou seja, hardware era minha praia, hoje meu hobbie rsrs. Durante a pandemia descobri o mundo do Software Livre, através dos canais do youtube [Curso GNU/Linux](https://www.youtube.com/watch?v=SZMIL87CyVE&list=PLuf64C8sPVT9L452PqdyYCNslctvCMs_n) do querido professor kretcheu e [Debxp](https://www.youtube.com/@debxp) do querido professor Blau Araújo.
 
 
